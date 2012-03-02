@@ -69,7 +69,7 @@ Visualize punchard data:
     >>> watcard.punchcard_url(w.punchcard())
     'https://chart.googleapis.com/...'
 
-
+![Punchcard visualization example](https://github.com/aibram/watcard/raw/master/punchcard_example.png)
 
 ## Documentation
 While no separate documentation exists, docstrings within the code are thorough. If you have any questions, ask.
