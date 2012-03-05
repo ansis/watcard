@@ -3,6 +3,12 @@ Watcard
 
 A Python module for working with transaction and balance data from University of Waterloo's Watcard. *To access your Watcard's transaction data you must have your student ID and your Watcard PIN. To create/reset your PIN visit [http://www.watcard.uwaterloo.ca/account.html](http://www.watcard.uwaterloo.ca/account.html)*
 
+## Installation
+
+To install watcard:
+
+    $ pip install watcard
+
 ## Dependencies
 
 - BeautifulSoup
