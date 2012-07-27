@@ -9,8 +9,8 @@ setup(
     author='Ansis Brammanis',
     author_email='ansis.brammanis@gmail.com',
     license='MIT',
-    url='https://github.com/aibram/watcard',
-    download_url='https://github.com/aibram/watcard/tarball/master',
+    url='https://github.com/ansis/watcard',
+    download_url='https://github.com/ansis/watcard/tarball/master',
     py_modules=['watcard'],
     install_requires=(
         'tablib',
